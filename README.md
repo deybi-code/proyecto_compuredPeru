@@ -1,3 +1,16 @@
+# Compured Perú - Plataforma Web
+
+## Autoría y Créditos
+- **Equipo de Desarrollo:** Deybi Esmith Gavidia Perez, Lee Chau Aquino, Luis Fernando Frias Neyra.
+- **Institución:** Tecsup
+- **Fecha:** 2026
+
+## Descripción
+Proyecto de optimización y rediseño de la plataforma web de Compured Perú. 
+Este código es propiedad intelectual de los autores mencionados. Cualquier uso no autorizado o plagio total o parcial está sujeto a las normas de ética académica.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

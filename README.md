@@ -15,7 +15,12 @@ Este proyecto busca mejorar el funcionamiento del backend y la experiencia de us
 * **Optimización:** Mejorar el panel administrativo para una gestión eficiente de productos.
 * **Modernización:** Rediseñar la interfaz para lograr una navegación más clara, moderna y adaptable.
 * **Innovación:** Implementar diseño *responsive* y un **modo oscuro** para mejorar la experiencia visual.
+## ⚠️ Aviso de Propiedad Intelectual
+Este código fuente es propiedad de **Compured Perú** y ha sido desarrollado bajo autorización expresa para fines académicos exclusivamente por el equipo de desarrollo mencionado. 
 
+**Prohibida su distribución, copia o uso comercial sin autorización previa de los propietarios.**
+
+*El acceso a este repositorio está restringido y su uso está limitado únicamente al contexto académico del curso.*
 ## 🛠️ Tecnologías Utilizadas
 * **Backend:** PHP / Laravel
 * **Base de Datos:** MySQL

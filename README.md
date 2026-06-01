@@ -1,16 +1,38 @@
-# Compured Perú - Plataforma Web
+# 💻 Compured Perú - Optimización y Rediseño
 
-## Autoría y Créditos
-- **Equipo de Desarrollo:** Deybi Esmith Gavidia Perez, Lee Chau Aquino, Luis Fernando Frias Neyra.
-- **Institución:** Tecsup
-- **Fecha:** 2026
+![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## Descripción
-Proyecto de optimización y rediseño de la plataforma web de Compured Perú. 
-Este código es propiedad intelectual de los autores mencionados. Cualquier uso no autorizado o plagio total o parcial está sujeto a las normas de ética académica.
+---
 
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+## 🎯 Objetivo del Proyecto
+Este proyecto busca mejorar el funcionamiento del backend y la experiencia de usuario de la plataforma web de COMPURED PERÚ.
+* **Optimización:** Mejorar el panel administrativo para una gestión eficiente de productos[cite: 1].
+* **Modernización:** Rediseñar la interfaz para lograr una navegación más clara, moderna y adaptable[cite: 1].
+* **Innovación:** Implementar diseño *responsive* y un **modo oscuro** para mejorar la experiencia visual[cite: 1].
+
+## 🛠️ Tecnologías Utilizadas
+* **Backend:** PHP / Laravel
+* **Base de Datos:** MySQL
+* **Frontend:** Blade, CSS3 (con enfoque Responsive)
+
+---
+
+## 👥 Equipo de Desarrollo
+
+| Rol | Nombre | GitHub |
+| :--- | :--- | :--- |
+| 👑 **Líder/Backend** | Deybi Esmith Gavidia Perez | [@deybi-code](https://github.com/deybi-code) |
+| 💻 **Desarrollador** | Lee Chau Aquino | - |
+| 💻 **Desarrollador** | Luis Fernando Frias Neyra | - |
+
+---
+
+> **Nota de Autoría:** Este proyecto es propiedad intelectual de los autores mencionados y cuenta con la autorización para su uso académico. 
+
+> **💡 Consejo:** Si deseas ver cómo instalamos este proyecto localmente, revisa la sección de *Requisitos* en nuestra documentación interna.
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

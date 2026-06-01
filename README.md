@@ -6,7 +6,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
+## ⚠️ Estado del Proyecto
+Este proyecto se encuentra actualmente en **fase de desarrollo activo**. Estamos trabajando constantemente en la optimización del backend y la mejora de la experiencia de usuario según los objetivos trazados en nuestro plan de trabajo.
 
+---
 ## 🎯 Objetivo del Proyecto
 Este proyecto busca mejorar el funcionamiento del backend y la experiencia de usuario de la plataforma web de COMPURED PERÚ.
 * **Optimización:** Mejorar el panel administrativo para una gestión eficiente de productos[cite: 1].

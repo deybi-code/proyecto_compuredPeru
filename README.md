@@ -12,9 +12,9 @@ Este proyecto se encuentra actualmente en **fase de desarrollo activo**. Estamos
 ---
 ## 🎯 Objetivo del Proyecto
 Este proyecto busca mejorar el funcionamiento del backend y la experiencia de usuario de la plataforma web de COMPURED PERÚ.
-* **Optimización:** Mejorar el panel administrativo para una gestión eficiente de productos[cite: 1].
-* **Modernización:** Rediseñar la interfaz para lograr una navegación más clara, moderna y adaptable[cite: 1].
-* **Innovación:** Implementar diseño *responsive* y un **modo oscuro** para mejorar la experiencia visual[cite: 1].
+* **Optimización:** Mejorar el panel administrativo para una gestión eficiente de productos.
+* **Modernización:** Rediseñar la interfaz para lograr una navegación más clara, moderna y adaptable.
+* **Innovación:** Implementar diseño *responsive* y un **modo oscuro** para mejorar la experiencia visual.
 
 ## 🛠️ Tecnologías Utilizadas
 * **Backend:** PHP / Laravel

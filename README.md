@@ -32,9 +32,9 @@ Este código fuente es propiedad de **Compured Perú** y ha sido desarrollado ba
 
 | Rol | Nombre | GitHub |
 | :--- | :--- | :--- |
-| 👑 **Líder/Backend** | Deybi Esmith Gavidia Perez | [@deybi-code](https://github.com/deybi-code) |
-| 💻 **Desarrollador** | Lee Chau Aquino | - |
-| 💻 **Desarrollador** | Luis Fernando Frias Neyra | - |
+| 💻 **Líder/Backend/Tester** | Deybi Esmith Gavidia Perez | [@deybi-code](https://github.com/deybi-code) |
+| 💻 **Desarrollador/Documentacion** | Lee Chau Aquino | - |
+| 💻 **Desarrollador/Fronet** | Luis Fernando Frias Neyra | - |
 
 ---
 
